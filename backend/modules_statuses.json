@@ -1,0 +1,5 @@
+{
+    "Customer": true,
+    "Purchase": true,
+    "Permission": true
+}
