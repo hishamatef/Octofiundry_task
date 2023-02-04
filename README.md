@@ -90,4 +90,3 @@ Click "Login" on sidebar menu and log in with credentials:
 This user has roles: _user_ and _admin_
 
 --- 
-I just started to do the task Today and haven't got enough time to create unit tests.
