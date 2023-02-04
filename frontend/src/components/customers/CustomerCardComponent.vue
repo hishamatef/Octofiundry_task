@@ -1,13 +1,7 @@
 <template>
     <div class="wedevs_element_grid_wrapper">
         <div class="wedevs_element_grid">
-            <a href="" class="" >
-                <img class="fit-image" loading="lazy" :src="customer.image" :alt="customer.title" width="150" >
-            </a> 
-            <p> {{ customer.description}}</p>
-            <span class="element_price"> $ {{ customer.price}}</span>
-            <a href="" :title="`See about ${ customer.title }`" class="text-wpuf"> See more →
-            </a>
+            <p> {{ customer.name}}</p>
         </div>
     </div>
 </template>

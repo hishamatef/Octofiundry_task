@@ -1,10 +1,8 @@
 <template>
     <div class="wedevs_element_grid_wrapper">
         <div class="wedevs_element_grid">
-            <p> {{ purchase.description}}</p>
-            <span class="element_price"> $ {{ purchase.customer}}</span>
-            <a href="" :title="`See about ${ purchase.title }`" class="text-wpuf"> See more →
-            </a>
+            <p> {{ purchase.title}}</p>
+            <span class="element_price">  {{ purchase.description}}</span>
         </div>
     </div>
 </template>
